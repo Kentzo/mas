@@ -55,7 +55,7 @@ To get Swift 5 support, you have a few options:
 
 ### 🐙 GitHub Releases
 
-Alternatively, binaries are available in the [GitHub Releases](https://github.com/mas-cli/mas/releases).
+Alternatively, binaries are available in the [GitHub Releases](https://github.com/mas-cli/mas/releases). Note that macOS version 10.14.3 and earlier requires additional installation of [Swift 5 Runtime Support for Command Line Tools](https://support.apple.com/kb/DL1998).
 
 ## 🤳🏻 Usage
 
